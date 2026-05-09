@@ -1,0 +1,11 @@
+ServerName,IPAddress
+web-server-01,192.168.1.10
+web-server-02,192.168.1.11
+db-server-01,192.168.1.20
+db-server-02,192.168.1.21
+app-server-01,192.168.1.30
+app-server-02,192.168.1.31
+mail-server-01,192.168.1.40
+file-server-01,192.168.1.50
+proxy-server-01,192.168.1.60
+backup-server-01,192.168.1.70

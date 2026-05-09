@@ -1,0 +1,42 @@
+[
+    {
+        "ServerName": "web-server-01",
+        "IPAddress": "192.168.1.10"
+    },
+    {
+        "ServerName": "web-server-02",
+        "IPAddress": "192.168.1.11"
+    },
+    {
+        "ServerName": "db-server-01",
+        "IPAddress": "192.168.1.20"
+    },
+    {
+        "ServerName": "db-server-02",
+        "IPAddress": "192.168.1.21"
+    },
+    {
+        "ServerName": "app-server-01",
+        "IPAddress": "192.168.1.30"
+    },
+    {
+        "ServerName": "app-server-02",
+        "IPAddress": "192.168.1.31"
+    },
+    {
+        "ServerName": "mail-server-01",
+        "IPAddress": "192.168.1.40"
+    },
+    {
+        "ServerName": "file-server-01",
+        "IPAddress": "192.168.1.50"
+    },
+    {
+        "ServerName": "proxy-server-01",
+        "IPAddress": "192.168.1.60"
+    },
+    {
+        "ServerName": "backup-server-01",
+        "IPAddress": "192.168.1.70"
+    }
+]

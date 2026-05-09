@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "hostname": "web-prod-01",
+        "ip": "192.168.1.10"
+    },
+    {
+        "id": 2,
+        "hostname": "db-prod-01",
+        "ip": "192.168.1.11"
+    },
+    {
+        "id": 3,
+        "hostname": "app-prod-01",
+        "ip": "192.168.1.12"
+    },
+    {
+        "id": 4,
+        "hostname": "cache-prod-01",
+        "ip": "192.168.1.13"
+    }
+]

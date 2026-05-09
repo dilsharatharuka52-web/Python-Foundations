@@ -1,0 +1,17 @@
+[
+    {
+        "hostname": "web-01",
+        "ip": "10.0.0.5",
+        "role": "frontend"
+    },
+    {
+        "hostname": "db-01",
+        "ip": "10.0.0.6",
+        "role": "backend"
+    },
+    {
+        "hostname": "cache-01",
+        "ip": "10.0.0.7",
+        "role": "redis"
+    }
+]
